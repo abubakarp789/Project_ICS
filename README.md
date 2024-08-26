@@ -1,4 +1,4 @@
-# NkAM University Society LAnding Page
+# NkAM University Society Landing Page
 
 This repository contains the landing page project for the NkAM University Society, created as part of the 1st Semester ICS course. The landing page provides information about the club's events, history, executives, and more.
 
